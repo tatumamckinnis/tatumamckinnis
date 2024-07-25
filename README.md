@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there, I'm Tatum 👋
+
+📚 As a student at Duke University majoring in Computer Science and minoring in Statistics and English, I'm passionate about using technology for social good and eager to learn more about Machine Learning to further this mission. 
+
+👩‍💻 Currently, I am collaborating with four other Duke students to develop a fitness app that reduces gym anxiety by providing personalized workout plans, connecting users with workout partners, offering gym reviews, and displaying gym capacity information.
+
+📫 Connect with me on LinkedIn (www.linkedin.com/in/tatum-mckinnis-0367802a9) or email me (tatummckinnis27@gmail.com)!
 
 <!--
 **tatumamckinnis/tatumamckinnis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
