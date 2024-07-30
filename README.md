@@ -1,6 +1,6 @@
 ## Hi there, I'm Tatum 👋
 
-📚 As a student at Duke University majoring in Computer Science and minoring in Statistics and English, I'm passionate about using technology for social good and eager to learn more about Machine Learning to further this mission. 
+📚 As a student at Duke University majoring in Computer Science and minoring in Statistics and English, I'm passionate about using technology for social good and eager to learn more about machine learning to further this mission. 
 
 👩‍💻 Currently, I am collaborating with four other Duke students to develop a fitness app that reduces gym anxiety by providing personalized workout plans, connecting users with workout partners, offering gym reviews, and displaying gym capacity information.
 
