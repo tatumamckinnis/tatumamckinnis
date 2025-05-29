@@ -1,8 +1,8 @@
 ## Hi there, I'm Tatum 👋
 
-📚 As a student at Duke University majoring in Computer Science and minoring in Statistics and English, I'm passionate about using technology for social good and eager to learn more about machine learning to further this mission. 
+📚 I’m a Computer Science major with an AI/ML concentration at Duke University, minoring in English. I’m passionate about using technology for social good and especially interested in how machine learning can deliver personalized, meaningful impact.
 
-👩‍💻 Currently, I am collaborating with four other Duke students to develop a fitness app that reduces gym anxiety by providing personalized workout plans, connecting users with workout partners, offering gym reviews, and displaying gym capacity information.
+👩‍💻 Currently interning at Manhattan Associates for the summer, where I’m building a generative AI tool that enables non-developers to create behavior-driven test cases by generating customized Cucumber feature files. My work involves LLM customization, component and end-to-end testing, and agile development to improve the accessibility and efficiency of enterprise software testing.
 
 📫 Connect with me on LinkedIn (www.linkedin.com/in/tatum-mckinnis-0367802a9) or email me (tatummckinnis27@gmail.com)!
 
