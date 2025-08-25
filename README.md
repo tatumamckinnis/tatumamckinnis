@@ -2,7 +2,7 @@
 
 📚 I’m a Computer Science major with an AI/ML concentration at Duke University, minoring in English. I’m passionate about using technology for social good and especially interested in how machine learning can deliver personalized, meaningful impact.
 
-👩‍💻 Currently interning at Manhattan Associates for the summer, where I’m building a generative AI tool that enables non-developers to create behavior-driven test cases by generating customized Cucumber feature files. My work involves LLM customization, component and end-to-end testing, and agile development to improve the accessibility and efficiency of enterprise software testing.
+👩‍💻 I recently completed a Software Engineering Internship at Manhattan Associates, where I trained and fine-tuned an LLM to generate Java code and BDD test cases in a proprietary testing language, cutting authoring time by over 80%. I also built a React/Spring Boot tool for no-code test creation and validation, and optimized WMOS shipment allocation service by refactoring multi-threaded job scheduling, improving execution speed by 22% in high-volume simulations.
 
 📫 Connect with me on LinkedIn (www.linkedin.com/in/tatum-mckinnis-0367802a9) or email me (tatummckinnis27@gmail.com)!
 
