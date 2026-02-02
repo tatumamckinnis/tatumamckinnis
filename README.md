@@ -4,7 +4,7 @@
 
 👩‍💻 I recently completed a Software Engineering Internship at Manhattan Associates, where I trained and fine-tuned an LLM to generate Java code and BDD test cases in a proprietary testing language, cutting authoring time by over 80%. I also built a React/Spring Boot tool for no-code test creation and validation, and optimized WMOS shipment allocation service by refactoring multi-threaded job scheduling, improving execution speed by 22% in high-volume simulations.
 
-📫 Connect with me on LinkedIn (www.linkedin.com/in/tatum-mckinnis-0367802a9) or email me (tatummckinnis27@gmail.com)!
+📫 Connect with me on LinkedIn (https://www.linkedin.com/in/tatum-mckinnis/) or email me (tatummckinnis27@gmail.com)!
 
 <!--
 **tatumamckinnis/tatumamckinnis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
