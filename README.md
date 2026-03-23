@@ -4,11 +4,11 @@
 
 👩‍💻 Recently, I was a Software Engineering Intern at Manhattan Associates, where I:
 
-Architected a multi-agent AI system, deploying specialized agents to autonomously generate Java code and BDD test cases in a proprietary language, slashing authoring time by over 80%.
+- Architected a multi-agent AI system, deploying specialized agents to autonomously generate Java code and BDD test cases in a proprietary language, slashing authoring time by over 80%.
 
-Built a full-stack React and Spring Boot application for seamless, no-code test creation.
+- Built a full-stack React and Spring Boot application for seamless, no-code test creation.
 
-Optimized the WMOS shipment allocation service by refactoring multi-threaded job scheduling, boosting execution speeds by 22% in high-volume simulations.
+- Optimized the WMOS shipment allocation service by refactoring multi-threaded job scheduling, boosting execution speeds by 22% in high-volume simulations.
 
 📫 Connect with me on LinkedIn (https://www.linkedin.com/in/tatum-mckinnis/) or email me (tatummckinnis27@gmail.com)!
 
