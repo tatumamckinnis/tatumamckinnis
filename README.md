@@ -1,6 +1,6 @@
 # Hi there, I'm Tatum 👋
 
-CS (AI/ML) + English at Duke. Two parts I care about: getting the model to work, and getting it to work for real people. Drawn to the technical side and the people side in equal measure.
+📚 🙋‍♀️ CS (AI/ML) + English at Duke. Two parts I care about: getting the model to work, and getting it to work for real people. Drawn to the technical side and the people side in equal measure.
 
 📫 Connect with me on LinkedIn (https://www.linkedin.com/in/tatum-mckinnis/) or email me (tatummckinnis27@gmail.com)!
 
