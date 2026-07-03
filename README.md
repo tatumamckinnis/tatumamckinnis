@@ -1,14 +1,6 @@
 # Hi there, I'm Tatum 👋
 
-📚 I’m a Computer Science major (AI/ML concentration) and English minor at Duke University. I’m passionate about using technology for social good, specifically by designing intuitive, accessible experiences that democratize complex AI systems so anyone can use them.
-
-👩‍💻 Recently, I was a Software Engineering Intern at Manhattan Associates, where I:
-
-- Architected a multi-agent AI system, deploying specialized agents to autonomously generate Java code and BDD test cases in a proprietary language, slashing authoring time by over 80%.
-
-- Built a full-stack React and Spring Boot application for seamless, no-code test creation.
-
-- Optimized the WMOS shipment allocation service by refactoring multi-threaded job scheduling, boosting execution speeds by 22% in high-volume simulations.
+CS (AI/ML) + English at Duke. Two parts I care about: getting the model to work, and getting it to work for real people. Drawn to the technical side and the people side in equal measure.
 
 📫 Connect with me on LinkedIn (https://www.linkedin.com/in/tatum-mckinnis/) or email me (tatummckinnis27@gmail.com)!
 
